@@ -10,3 +10,6 @@ def c():
 
 def d():
     pass
+
+defe():
+    pass
